@@ -1,0 +1,6 @@
+#cloud-config
+
+ssh_authorized_keys:
+  - "ssh-rsa ... michele@fortknox"
+
+hostname: "coreos-test"
