@@ -1,6 +1,8 @@
 # config-drive (cloud-config) generator
 
-This simple script prepares a config-drive containing user customizations (`cloud-config`) for CoreOS deployments. 
+> **Archived:** CoreOS Container Linux, which this targets, reached end of life on 26 May 2020.
+
+A script that builds a config-drive ISO holding `cloud-config` user data for a CoreOS Container Linux machine.
 Reference: https://coreos.com/os/docs/latest/config-drive.html
 
 ## Usage
